@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/PRojects/1/.idea/1.iml" filepath="$USER_HOME$/Desktop/PRojects/1/.idea/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cosmovie.iml" filepath="$PROJECT_DIR$/.idea/Cosmovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Default/.idea/Default.iml" filepath="$PROJECT_DIR$/../Default/.idea/Default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../engine/modules/.idea/modules.iml" filepath="$PROJECT_DIR$/../../engine/modules/.idea/modules.iml" />
+    </modules>
+  </component>
+</project>

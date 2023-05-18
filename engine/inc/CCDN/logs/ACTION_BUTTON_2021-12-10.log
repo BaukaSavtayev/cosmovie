@@ -1,0 +1,121 @@
+/*
+|------------------------- INFO --------------------------
+| Plugin version : 1.4.36
+| PHP version : 8.0.8
+| PHP memory limit : 1536M
+| DLE version: 15.0
+|---------------------------------------------------------
+/
+-------------------------------------------------
+[08:40:26] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\d993861d742cbd179202ebf49083288c.php(577): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\3e90574be1e2e82619ae2d03903644a1.php(576): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:41:51] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\d993861d742cbd179202ebf49083288c.php(577): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\3e90574be1e2e82619ae2d03903644a1.php(576): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:44:45] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\d993861d742cbd179202ebf49083288c.php(23): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\3e90574be1e2e82619ae2d03903644a1.php(576): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:44:45] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\d993861d742cbd179202ebf49083288c.php(579): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\3e90574be1e2e82619ae2d03903644a1.php(576): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:44:59] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\d993861d742cbd179202ebf49083288c.php(23): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\3e90574be1e2e82619ae2d03903644a1.php(576): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:44:59] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\d993861d742cbd179202ebf49083288c.php(579): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\3e90574be1e2e82619ae2d03903644a1.php(576): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:45:13] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\d993861d742cbd179202ebf49083288c.php(23): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\3e90574be1e2e82619ae2d03903644a1.php(576): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:45:13] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\d993861d742cbd179202ebf49083288c.php(579): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\cache\system\plugins\3e90574be1e2e82619ae2d03903644a1.php(576): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:46:25] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\inc\addnews.php(23): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\inc\include\init.php(598): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:46:26] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\inc\addnews.php(23): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\inc\include\init.php(598): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:46:28] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\inc\addnews.php(23): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\inc\include\init.php(598): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:46:44] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\inc\editnews.php(22): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\inc\include\init.php(598): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:46:46] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\inc\editnews.php(22): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\inc\include\init.php(598): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------
+[08:49:54] Message: Api key empty
+File: C:\OpenServer\domains\cosmovie\engine\inc\CCDN\Controllers\BtnController.php Line: 63
+Trace: #0 C:\OpenServer\domains\cosmovie\engine\inc\CCDN\button.php(15): CCDN\Controllers\BtnController->renderButton()
+#1 C:\OpenServer\domains\cosmovie\engine\inc\editnews.php(22): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\cosmovie\engine\inc\include\init.php(598): include_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\cosmovie\admin.php(29): require_once('C:\\OpenServer\\d...')
+#4 {main}
+-------------------------------------------------

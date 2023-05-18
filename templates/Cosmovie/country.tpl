@@ -1,0 +1,16 @@
+<li><a href="/detectives">США</a></li>
+<li><a href="/actions">Россия</a></li>
+<li><a href="/country/Казахстан">Казахстан</a></li>
+<li><a href="/documentaries">Документальные</a></li>
+<li><a href="/thrillers">Триллеры</a></li>
+<li><a href="/fantasy">Фэнтези</a></li>
+<li><a href="/biographycal">Биографические</a></li>
+<li><a href="/fiction">Фантастика</a></li>
+<li><a href="/crime">Криминальные</a></li>
+<li><a href="/melodramas">Мелодрамы</a></li>
+<li><a href="/horror">Ужасы</a></li>
+<li><a href="/musical">Мюзиклы</a></li>
+<li><a href="/war">Военные</a></li>
+<li><a href="/historical">Исторические</a></li>
+<li><a href="/comedy">Комедии</a></li>
+<li><a href="/short">Короткометражные</a></li>
